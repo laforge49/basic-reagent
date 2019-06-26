@@ -1,0 +1,3 @@
+{:require  [breagent.app]
+ :init-fns [breagent.app/init]
+ :compiler-options {:asset-path "js/app.out"}}
